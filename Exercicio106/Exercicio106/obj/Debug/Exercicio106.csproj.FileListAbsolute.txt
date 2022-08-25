@@ -1,0 +1,7 @@
+C:\Users\ALUNO\Desktop\Lucas Felipe\Exercicio106\Exercicio106\bin\Debug\Exercicio106.exe.config
+C:\Users\ALUNO\Desktop\Lucas Felipe\Exercicio106\Exercicio106\bin\Debug\Exercicio106.exe
+C:\Users\ALUNO\Desktop\Lucas Felipe\Exercicio106\Exercicio106\bin\Debug\Exercicio106.pdb
+C:\Users\ALUNO\Desktop\Lucas Felipe\Exercicio106\Exercicio106\obj\Debug\Exercicio106.csproj.CoreCompileInputs.cache
+C:\Users\ALUNO\Desktop\Lucas Felipe\Exercicio106\Exercicio106\obj\Debug\Exercicio106.exe
+C:\Users\ALUNO\Desktop\Lucas Felipe\Exercicio106\Exercicio106\obj\Debug\Exercicio106.pdb
+C:\Users\ALUNO\Desktop\Lucas Felipe\Exercicio106\Exercicio106\obj\Debug\Exercicio106.csprojAssemblyReference.cache

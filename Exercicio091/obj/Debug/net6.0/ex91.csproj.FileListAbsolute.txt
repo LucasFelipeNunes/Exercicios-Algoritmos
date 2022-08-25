@@ -1,0 +1,15 @@
+F:\Algoritimos\ExercíciosC#\Lista07(81-101)\ex91\obj\Debug\net6.0\ex91.csproj.AssemblyReference.cache
+F:\Algoritimos\ExercíciosC#\Lista07(81-101)\ex91\obj\Debug\net6.0\ex91.GeneratedMSBuildEditorConfig.editorconfig
+F:\Algoritimos\ExercíciosC#\Lista07(81-101)\ex91\obj\Debug\net6.0\ex91.AssemblyInfoInputs.cache
+F:\Algoritimos\ExercíciosC#\Lista07(81-101)\ex91\obj\Debug\net6.0\ex91.AssemblyInfo.cs
+F:\Algoritimos\ExercíciosC#\Lista07(81-101)\ex91\obj\Debug\net6.0\ex91.csproj.CoreCompileInputs.cache
+F:\Algoritimos\ExercíciosC#\Lista07(81-101)\ex91\bin\Debug\net6.0\ex91.exe
+F:\Algoritimos\ExercíciosC#\Lista07(81-101)\ex91\bin\Debug\net6.0\ex91.deps.json
+F:\Algoritimos\ExercíciosC#\Lista07(81-101)\ex91\bin\Debug\net6.0\ex91.runtimeconfig.json
+F:\Algoritimos\ExercíciosC#\Lista07(81-101)\ex91\bin\Debug\net6.0\ex91.dll
+F:\Algoritimos\ExercíciosC#\Lista07(81-101)\ex91\bin\Debug\net6.0\ref\ex91.dll
+F:\Algoritimos\ExercíciosC#\Lista07(81-101)\ex91\bin\Debug\net6.0\ex91.pdb
+F:\Algoritimos\ExercíciosC#\Lista07(81-101)\ex91\obj\Debug\net6.0\ex91.dll
+F:\Algoritimos\ExercíciosC#\Lista07(81-101)\ex91\obj\Debug\net6.0\ref\ex91.dll
+F:\Algoritimos\ExercíciosC#\Lista07(81-101)\ex91\obj\Debug\net6.0\ex91.pdb
+F:\Algoritimos\ExercíciosC#\Lista07(81-101)\ex91\obj\Debug\net6.0\ex91.genruntimeconfig.cache

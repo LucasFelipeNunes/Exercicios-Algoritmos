@@ -1,0 +1,14 @@
+C:\Users\ALUNO\source\repos\Exercicio102\Exercicio102\bin\Debug\Exercicio102.exe.config
+C:\Users\ALUNO\source\repos\Exercicio102\Exercicio102\bin\Debug\Exercicio102.exe
+C:\Users\ALUNO\source\repos\Exercicio102\Exercicio102\bin\Debug\Exercicio102.pdb
+C:\Users\ALUNO\source\repos\Exercicio102\Exercicio102\obj\Debug\Exercicio102.csprojAssemblyReference.cache
+C:\Users\ALUNO\source\repos\Exercicio102\Exercicio102\obj\Debug\Exercicio102.csproj.CoreCompileInputs.cache
+C:\Users\ALUNO\source\repos\Exercicio102\Exercicio102\obj\Debug\Exercicio102.exe
+C:\Users\ALUNO\source\repos\Exercicio102\Exercicio102\obj\Debug\Exercicio102.pdb
+C:\Users\ALUNO\Desktop\Exercicio102\Exercicio102\bin\Debug\Exercicio102.exe.config
+C:\Users\ALUNO\Desktop\Exercicio102\Exercicio102\bin\Debug\Exercicio102.exe
+C:\Users\ALUNO\Desktop\Exercicio102\Exercicio102\bin\Debug\Exercicio102.pdb
+C:\Users\ALUNO\Desktop\Exercicio102\Exercicio102\obj\Debug\Exercicio102.csprojAssemblyReference.cache
+C:\Users\ALUNO\Desktop\Exercicio102\Exercicio102\obj\Debug\Exercicio102.csproj.CoreCompileInputs.cache
+C:\Users\ALUNO\Desktop\Exercicio102\Exercicio102\obj\Debug\Exercicio102.exe
+C:\Users\ALUNO\Desktop\Exercicio102\Exercicio102\obj\Debug\Exercicio102.pdb
