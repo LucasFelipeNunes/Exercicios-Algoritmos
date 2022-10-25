@@ -29,7 +29,9 @@ O número digitado foi ..., seu antecessor é ... e seu sucessor é ...</p>
 <p>08 – Elabore um algoritmo que calcule a área e o perímetro de um quadrado.<br>
 Área = lado2<br>
 Perímetro = é a soma de todos os lados</p>
+<img src="quadrado.png">
 <p>09 – Elabore um algoritmo que calcule a área e o perímetro de um retângulo.<br>
 Área = b x h<br>
 Perímetro = é a soma de todos os lados</p>
+<img src="retangulo.png">
 </html>
