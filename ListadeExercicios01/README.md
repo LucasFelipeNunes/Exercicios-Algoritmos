@@ -1,7 +1,9 @@
 # Lista de Exercícios 01
 
 Esta lista apresenta exercícios para o treinamento dos conceitos de variáveis, palavras reservadas, tipos de variáveis, operadores aritméticos, atribuição de valores e entrada e saída de dados.
+
 ##Enunciados
+
 01 – Elaborar um algoritmo que imprima a frase abaixo: “Aprendendo Algoritmo”
 
 02 – Elabore um algoritmo que imprima a frase da maneira descrita abaixo, uma frase abaixo da outra:
@@ -45,8 +47,10 @@ O número digitado foi ..., seu antecessor é ... e seu sucessor é ...
 Área = lado2
 
 Perímetro = é a soma de todos os lados
+
 ![Quadrado](../Imagens/quadrado.png)
- 09 – Elabore um algoritmo que calcule a área e o perímetro de um retângulo.
+
+09 – Elabore um algoritmo que calcule a área e o perímetro de um retângulo.
 
 Área = b x h
 
