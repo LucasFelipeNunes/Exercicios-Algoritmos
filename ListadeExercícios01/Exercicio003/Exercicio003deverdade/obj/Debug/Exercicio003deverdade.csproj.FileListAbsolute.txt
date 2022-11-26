@@ -1,7 +1,0 @@
-C:\Users\ALUNO\Desktop\lucasfelipe\Exercicio003deverdade\Exercicio003deverdade\bin\Debug\Exercicio003deverdade.exe.config
-C:\Users\ALUNO\Desktop\lucasfelipe\Exercicio003deverdade\Exercicio003deverdade\bin\Debug\Exercicio003deverdade.exe
-C:\Users\ALUNO\Desktop\lucasfelipe\Exercicio003deverdade\Exercicio003deverdade\bin\Debug\Exercicio003deverdade.pdb
-C:\Users\ALUNO\Desktop\lucasfelipe\Exercicio003deverdade\Exercicio003deverdade\obj\Debug\Exercicio003deverdade.csproj.CoreCompileInputs.cache
-C:\Users\ALUNO\Desktop\lucasfelipe\Exercicio003deverdade\Exercicio003deverdade\obj\Debug\Exercicio003deverdade.exe
-C:\Users\ALUNO\Desktop\lucasfelipe\Exercicio003deverdade\Exercicio003deverdade\obj\Debug\Exercicio003deverdade.pdb
-C:\Users\ALUNO\Desktop\lucasfelipe\Exercicio003deverdade\Exercicio003deverdade\obj\Debug\Exercicio003deverdade.csprojAssemblyReference.cache
