@@ -1,7 +1,0 @@
-C:\Users\ALUNO\Desktop\Algoritmo-exercicios\Exercicio031\Exercicio031\bin\Debug\Exercicio031.exe.config
-C:\Users\ALUNO\Desktop\Algoritmo-exercicios\Exercicio031\Exercicio031\bin\Debug\Exercicio031.exe
-C:\Users\ALUNO\Desktop\Algoritmo-exercicios\Exercicio031\Exercicio031\bin\Debug\Exercicio031.pdb
-C:\Users\ALUNO\Desktop\Algoritmo-exercicios\Exercicio031\Exercicio031\obj\Debug\Exercicio031.csprojAssemblyReference.cache
-C:\Users\ALUNO\Desktop\Algoritmo-exercicios\Exercicio031\Exercicio031\obj\Debug\Exercicio031.csproj.CoreCompileInputs.cache
-C:\Users\ALUNO\Desktop\Algoritmo-exercicios\Exercicio031\Exercicio031\obj\Debug\Exercicio031.exe
-C:\Users\ALUNO\Desktop\Algoritmo-exercicios\Exercicio031\Exercicio031\obj\Debug\Exercicio031.pdb
