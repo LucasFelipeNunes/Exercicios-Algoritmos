@@ -1,6 +1,0 @@
-C:\Users\ALUNO\Desktop\Lucas Felipe\Exercicio046\Exercicio046\obj\Debug\Exercicio046.csproj.CoreCompileInputs.cache
-C:\Users\ALUNO\Desktop\Lucas Felipe\Exercicio046\Exercicio046\bin\Debug\Exercicio046.exe.config
-C:\Users\ALUNO\Desktop\Lucas Felipe\Exercicio046\Exercicio046\bin\Debug\Exercicio046.exe
-C:\Users\ALUNO\Desktop\Lucas Felipe\Exercicio046\Exercicio046\bin\Debug\Exercicio046.pdb
-C:\Users\ALUNO\Desktop\Lucas Felipe\Exercicio046\Exercicio046\obj\Debug\Exercicio046.exe
-C:\Users\ALUNO\Desktop\Lucas Felipe\Exercicio046\Exercicio046\obj\Debug\Exercicio046.pdb
