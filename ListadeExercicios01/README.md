@@ -2,7 +2,7 @@
 
 Esta lista apresenta exercícios para o treinamento dos conceitos de variáveis, palavras reservadas, tipos de variáveis, operadores aritméticos, atribuição de valores e entrada e saída de dados.
 
-##Enunciados
+## Enunciados
 
 01 – Elaborar um algoritmo que imprima a frase abaixo: “Aprendendo Algoritmo”
 
