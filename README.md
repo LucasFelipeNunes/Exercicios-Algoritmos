@@ -3,7 +3,7 @@ Este repositório contém os exercícios feitos para treinamento dos conceitos a
 
 Nestes exercícios são utilizados diversos conceitos de lógica de programação, como entrada e saída de dados, declaração e operação de variáveis, estruturas condicionais, estruturas de repetição e vetores de variáveis.
 
-**PS:** Agradeço ao [Rafael Augusto](https://github.com/rafaelbadas) por me ajudar a resolver os exercícios 88 a 92.
+**PS:** Agradeço ao [Gustavo Santos](https://github.com/stringGustavo) e ao [Rafael Augusto](https://github.com/rafaelbadas) pela ajuda na obtenção e resolução deles.
 
 ## [1ª Lista de Exercícios](ListaDeExercicios01)
 Esta lista apresenta exercícios para o treinamento dos conceitos de variáveis, palavras reservadas, tipos de variáveis, operadores aritméticos, atribuição de valores e entrada e saída de dados.
